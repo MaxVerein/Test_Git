@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vermax</groupId>
 	<artifactId>Test_Git</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<build>
@@ -44,7 +44,6 @@
 	
 	<scm>
     <developerConnection>scm:git:https://github.com/MaxVerein/Test_Git.git</developerConnection>
-  <tag>Test_Git-0.0.1</tag>
   </scm>
   
   
