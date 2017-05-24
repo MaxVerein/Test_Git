@@ -21,7 +21,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<configuration>
 					<outputDirectory>/tmp</outputDirectory>
-					<warName>autorubackend</warName>
+					<warName>Release</warName>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 					<webResources>
 						<resource>
