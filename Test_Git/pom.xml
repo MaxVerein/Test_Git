@@ -37,27 +37,4 @@
     <developerConnection>scm:git:https://github.com/MaxVerein/Test_Git.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
-  
-  
-  	<!-- Add new content -->
-    <distributionManagement>
-        <snapshotRepository>
-            <id>jv_russia</id>
-            <name>JV Russia</name>
-            <url>http://sssvn01.jv.ru:8082/nexus/content/repositories/snapshots</url>
-        </snapshotRepository>
-        <repository>
-            <id>jv_russia</id>
-            <name>JV Russia</name>
-            <url>http://sssvn01.jv.ru:8082/nexus/content/repositories/releases</url>
-        </repository>
-    </distributionManagement>
-    
-    <repositories>
-        <repository>
-            <id>cetelem</id>
-            <name>cetelem</name>
-            <url>http://sssvn01.jv.ru:8082/nexus/content/groups/public</url>
-        </repository>
-    </repositories>
 </project>
