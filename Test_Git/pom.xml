@@ -34,7 +34,7 @@
 	</build>
 	
 	<scm>
-    <developerConnection>scm:git:https://github.com/MaxVerein/Test_Git.git</developerConnection>
+    <connection>scm:git:https://github.com/MaxVerein/Test_Git.git</connection>
     <tag>HEAD</tag>
   </scm>
 </project>
