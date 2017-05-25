@@ -57,6 +57,6 @@
 	
 	<scm>
     <connection>scm:git:https://github.com/MaxVerein/Test_Git.git</connection>
-    <tag>HEAD</tag>
+    <tag>Test_Git-0.0.10</tag>
   </scm>
 </project>
