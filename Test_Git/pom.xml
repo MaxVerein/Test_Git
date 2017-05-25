@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.vermax</groupId>
 	<artifactId>Test_Git</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1_SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<build>
@@ -47,16 +47,15 @@
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.0</version>
-            <configuration>
+<!--             <configuration>
                 <source>1.6</source>
                 <target>1.6</target>
-            </configuration>
+            </configuration> -->
         </plugin>
 		</plugins>
 	</build>
 	
 	<scm>
     <connection>scm:git:https://github.com/MaxVerein/Test_Git.git</connection>
-    <tag>Test_Git-0.0.1</tag>
   </scm>
 </project>
